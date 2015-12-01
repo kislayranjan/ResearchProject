@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GigStar</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="label_welcome">Welcome to Gig Star</string>
+    <string name="label_guest">Guest</string>
+    <string name="label_artiest">Artist</string>
+    <string name="label_skip">skip</string>
+    <string name="sign_up">Sign up</string>
+    <string name="sign_in">Sign in</string>
+    <string name="label_already_registered">Already Registered ?</string>
+    <string name="label_click_here">Click Here</string>
+    <string name="label_to_sign_in">to Sign in now</string>
+    <string name="label_not_registered_yet">Not Registered yet.</string>
+    <string name="label_to_sign_up">To Sign up</string>
+    <string name="label_forgot_password">Forgot Password</string>
+    <string name="save">Save</string>
+    <string name="dot">.</string>
+
+    <string name="facebook_app_id">576946439119976</string>
+    <string name="reuqst_new_pass">Request Password</string>
+</resources>

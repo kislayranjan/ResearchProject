@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="gray_pressed">#464B54</color>
+    <color name="gray_normal">#333333</color>
+    <color name="gray_light">#f7f2f2</color>
+
+    <color name="blue_color">#9ec6ea</color>
+    <color name="view_pager_background">#dbd8d3</color>
+    <color name="step_pager_previous_tab_color">#8a8a88</color>
+    <color name="step_pager_selected_tab_color">#8a8a88</color>
+    <color name="step_pager_selected_last_tab_color">#8a8a88</color>
+    <color name="step_pager_next_tab_color">#C1C1C1</color>
+    <color name="review_green">#ff669900</color>
+    <color name="text_light">#000000</color>
+
+    <!--
+         The color tints to apply to the text and drag view when hovering
+         over the delete target or the info target
+    -->
+    <color name="white">#ffffff</color>
+    <color name="background_blue_1">#2b6b75</color>
+    <color name="background_blue_2">#235760</color>
+    <color name="background_blue_3">#12495c</color>
+    <color name="background_green">#7ab800</color>
+    <color name="blue_seperator">#4085a1</color>
+    <color name="grey_seperator">#5e838f</color>
+    <color name="blue">#2c8194</color>
+    <color name="purple">#323294</color>
+    <color name="light_blue">#5ab2db</color>
+    <color name="scan_progress_color">#b2ec19</color>
+    <color name="hardware_info_background">#d6d6d6</color>
+    <color name="list_row_dark">#46000000</color>
+    <!-- 55% of #000000 -->
+    <color name="list_row_light">#3A000000</color>
+    <!-- 45% of #000000 -->
+
+
+    <!-- Added by Amit -->
+    <color name="title_bg">#D51F1A</color>
+    <color name="bg_all">#F6F6F6</color>
+    <color name="text_copyright">#AFAFAF</color>
+    <color name="spinner_bg">#272f37</color>
+    <color name="red">#FF0000</color>
+    <color name="light_gray">#C0C0C0</color>
+    <color name="very_light_gray">#FFFBFF</color>
+
+    <color name="blue_normal">#217ed5</color>
+    <color name="blue_pressed">#2978C1</color>
+
+
+</resources>
